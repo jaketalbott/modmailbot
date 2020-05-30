@@ -19,3 +19,7 @@ Inspired by Reddit's modmail system.
 If you need help with setting up the bot or would like to discuss other things related to it, join the support server on Discord here:
 
 👉 **[Join support server](https://discord.gg/vRuhG9R)**
+
+Ignore this:
+
+[![Run on Repl.it](https://repl.it/badge/github/jaketalbott/modmailbot)](https://repl.it/github/jaketalbott/modmailbot)
